@@ -10,6 +10,9 @@
   ⚡ Fun fact: I dropped out of a System Development course after one year just to start over at a new college.<br>
     </p>
 </div>
+<!-- Im going to improve this feature in the future.
+[![Maicon GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiconVts)](https://github.com/MaiconVts/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconVts)](https://github.com/MaiconVts/github-readme-stats) -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Maicon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maicon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
