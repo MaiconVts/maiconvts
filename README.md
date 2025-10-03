@@ -2,7 +2,7 @@
 <div>
   <h1>Hi! I’m Maicon Theodoro. Thanks for being here — it really means a lot! 👋</h1>
   <p>
-  🌱 I’m currently learning: I’m in my first semester of System Development at PUC Minas. I'm using C# to learn algorithms and programming logic, and I’ve just started studying the DOM in JavaScript.<br>
+  🌱 I’m currently learning: I’m in my second semester of System Development at PUC Minas. I'm using C# to learn algorithms and programming logic, and i'm studying JavaScript.<br>
   🤔 I’m looking for help with: Finding a new internship or junior-level opportunity in programming.<br>
   💬 Ask me about: Anything you’re curious about!<br>
   📫 How to reach me: You can email me. |
