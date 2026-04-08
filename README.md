@@ -5,8 +5,8 @@
   🌱 I’m currently learning: I’m in my third semester of System Development at PUC Minas. I'm studying fundamentals of C# and .NET, while i'm studying and using im my dialy project JavaScript and React.<br>
   🤔 I’m looking for help with: Finding a new internship or junior-level opportunity in programming.<br>
   💬 Ask me about: Anything you’re curious about or just chatting!<br>
-  📫 How to reach me: You can mail to me. |
-  😄 Pronouns: He/Him. |
+  📫 How to reach me: You can mail to me. |<br>
+  😄 Pronouns: He/Him. |<br>
   ⚡ Fun fact: I dropped out of a System Development course after one year just to start over at a new college.<br>
     </p>
 </div>
