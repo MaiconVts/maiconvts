@@ -10,7 +10,8 @@
   ⚡ Fun fact: I dropped out of a System Development course after one year just to start over at a new college.<br>
     </p>
 </div>
-### 🛠 Tecnologias e Ferramentas
+
+🛠 Tecnologias e Ferramentas
 
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
