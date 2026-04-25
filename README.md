@@ -57,5 +57,5 @@ Construindo projetos reais enquanto aprendo.
 ---
 
 <div align="center">
-  <sub>⚡ Fato curioso — larguei um curso de TI depois de um ano para recomeçar do zero em uma faculdade melhor.</sub>
+  <sub>⚡ Fato curioso — larguei um curso de TI depois de um ano para recomeçar do zero o mesmo curso em uma nova faculdade.</sub>
 </div>
