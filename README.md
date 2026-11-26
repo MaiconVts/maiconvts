@@ -39,10 +39,7 @@
 **Bancos corporativos e ERP**
 
 <!-- Ícones próprios em assets/icones/, no mesmo estilo do skillicons.dev -->
-<img src="assets/icones/sqlserver.svg" width="48" alt="SQL Server" title="SQL Server">
-<img src="assets/icones/sql.svg" width="48" alt="SQL" title="SQL">
-<img src="assets/icones/sap-hana.svg" width="48" alt="SAP HANA (SQLScript)" title="SAP HANA (SQLScript)">
-<img src="assets/icones/sap-business-one.svg" width="48" alt="SAP Business One" title="SAP Business One">
+<img src="assets/icones/sqlserver.svg" width="48" alt="SQL Server" title="SQL Server"> <img src="assets/icones/sql.svg" width="48" alt="SQL" title="SQL"> <img src="assets/icones/sap-hana.svg" width="48" alt="SAP HANA (SQLScript)" title="SAP HANA (SQLScript)"> <img src="assets/icones/sap-business-one.svg" width="48" alt="SAP Business One" title="SAP Business One">
 
 <sub>SQL Server · SQL e SQLScript (SAP HANA) · ERP SAP Business One</sub>
 
