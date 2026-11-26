@@ -175,17 +175,6 @@ Já começados, ainda sem tela para mostrar. Vão ganhar card quando tiverem.
 
 Mais projetos e estudos de caso no [portfólio](https://maicontheodoro-dev.vercel.app).
 
-## Estatísticas
-
-<!-- Estes SVGs são gerados todos os dias pelo workflow .github/workflows/perfil.yml e ficam neste repositório, sem depender de API pública. -->
-
-<div align="center">
-
-<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" width="36%">
-<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" width="36%">
-
-</div>
-
 ---
 
 <div align="center">
