@@ -119,9 +119,8 @@ Mais projetos e estudos de caso no [portfólio](https://maicontheodoro-dev.verce
 
 <div align="center">
 
-<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" width="32%">
-<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" width="32%">
-<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumo do perfil e contribuições no último ano" width="32%">
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" width="36%">
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" width="36%">
 
 </div>
 
