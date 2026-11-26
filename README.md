@@ -13,12 +13,18 @@
 
 ## Sobre mim
 
-- 💼 **Autônomo:** sites, landing pages e plataformas web sob medida, do levantamento de requisitos à publicação.
-- 🏢 **Estagiário de back-office na Ramo (BH):** SAP Business One, procedures em SQLScript (HANA), consultas em SQL e automação do sistema.
-- 🎓 **Análise e Desenvolvimento de Sistemas na PUC Minas**, com conclusão prevista para jul/2027. Destaque de projeto no 1º semestre (Estúdio de Ideias) e no 2º (Save Money, Destaque do Eixo 2).
-- 📚 **Alura:** carreira Desenvolvimento Back-End .NET, em andamento.
-- 🤝 Projetos em equipe na faculdade e no hackathon da Ramo, onde representei o grupo junto à organização.
-- 🌐 Os estudos de caso completos estão no [portfólio](https://maicontheodoro-dev.vercel.app).
+<!-- Ícones de linha (Lucide, licença ISC) em assets/icones/sobre/ -->
+<img src="assets/icones/sobre/autonomo.svg" width="16" height="16" alt=""> **Autônomo:** sites, landing pages e plataformas web sob medida, do levantamento de requisitos à publicação.
+
+<img src="assets/icones/sobre/empresa.svg" width="16" height="16" alt=""> **Estagiário de back-office na Ramo (BH):** SAP Business One, procedures em SQLScript (HANA), consultas em SQL e automação do sistema.
+
+<img src="assets/icones/sobre/faculdade.svg" width="16" height="16" alt=""> **Análise e Desenvolvimento de Sistemas na PUC Minas**, com conclusão prevista para jul/2027. Destaque de projeto no 1º semestre (Estúdio de Ideias) e no 2º (Save Money, Destaque do Eixo 2).
+
+<img src="assets/icones/sobre/cursos.svg" width="16" height="16" alt=""> **Alura:** carreira Desenvolvimento Back-End .NET, em andamento.
+
+<img src="assets/icones/sobre/equipe.svg" width="16" height="16" alt=""> Projetos em equipe na faculdade e no hackathon da Ramo, onde representei o grupo junto à organização.
+
+<img src="assets/icones/sobre/portfolio.svg" width="16" height="16" alt=""> Os estudos de caso completos estão no [portfólio](https://maicontheodoro-dev.vercel.app).
 
 ## Tecnologias
 
@@ -175,5 +181,5 @@ Mais projetos e estudos de caso no [portfólio](https://maicontheodoro-dev.verce
 ---
 
 <div align="center">
-  <sub>⚡ Fato curioso: larguei um curso de TI depois de um ano para recomeçar do zero o mesmo curso em uma nova faculdade.</sub>
+  <sub><img src="assets/icones/sobre/curiosidade.svg" width="14" height="14" alt=""> Fato curioso: larguei um curso de TI depois de um ano para recomeçar do zero o mesmo curso em uma nova faculdade.</sub>
 </div>
