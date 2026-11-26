@@ -2,12 +2,8 @@
 
 <img src="assets/banner.svg" alt="Maicon Theodoro, desenvolvedor de software. Next.js, React, TypeScript, C# e Python." width="100%">
 
-<!-- Selos (shields.io): o nome depois de logo= é o ícone do simpleicons.org; a cor vem logo antes de ?style -->
-[![Portfólio](https://img.shields.io/badge/Portfólio-060a13?style=for-the-badge&logo=vercel&logoColor=white)](https://maicontheodoro-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicontheodoro/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531983158832)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvitor142@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maiconvts)
+<!-- Botões próprios (assets/botoes/): 5 de 20% cada, sem espaço entre as tags, para ocupar a largura do banner -->
+<a href="https://maicontheodoro-dev.vercel.app"><img src="assets/botoes/portfolio.svg" width="20%" alt="Portfólio"></a><a href="https://www.linkedin.com/in/maicontheodoro/"><img src="assets/botoes/linkedin.svg" width="20%" alt="LinkedIn"></a><a href="https://wa.me/5531983158832"><img src="assets/botoes/whatsapp.svg" width="20%" alt="WhatsApp"></a><a href="mailto:mvitor142@gmail.com"><img src="assets/botoes/email.svg" width="20%" alt="E-mail"></a><a href="https://instagram.com/maiconvts"><img src="assets/botoes/instagram.svg" width="20%" alt="Instagram"></a>
 
 </div>
 

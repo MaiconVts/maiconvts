@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="52" viewBox="0 0 240 52" role="img" aria-label="WHATSAPP"><g transform="translate(4 0)">
+  <rect x="0.75" y="0.75" width="230.5" height="50.5" rx="10" fill="#0b1222" stroke="#1f2c48" stroke-width="1.5"/>
+  <g transform="translate(55 15)" fill="none" stroke="#8fb8ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform-origin="0 0"><g transform="scale(0.9167)"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1-1.5-2-1-1 .8a4 4 0 0 1-1.8-1.8l.8-1-1-2Z"/></g></g>
+  <text x="87" y="31.5" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="16" font-weight="600" letter-spacing="2" fill="#f4f7fc">WHATSAPP</text>
+</g></svg>
