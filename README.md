@@ -1,13 +1,11 @@
 <div align="center">
 
-# Maicon Theodoro
-
-Desenvolvedor de software · Vespasiano, MG
+<img src="assets/banner.svg" alt="Maicon Theodoro, desenvolvedor de software. Next.js, React, TypeScript, C# e Python." width="100%">
 
 <!-- Selos (shields.io): o nome depois de logo= é o ícone do simpleicons.org; a cor vem logo antes de ?style -->
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maicontheodoro-dev.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-060a13?style=for-the-badge&logo=vercel&logoColor=white)](https://maicontheodoro-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicontheodoro/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(31)%2098315--8832-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531983158832)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531983158832)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvitor142@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maiconvts)
 
@@ -15,69 +13,125 @@ Desenvolvedor de software · Vespasiano, MG
 
 ## Sobre mim
 
-- 🎓 Curso Análise e Desenvolvimento de Sistemas na PUC Minas.
-- 💼 Trabalho como desenvolvedor autônomo, criando sites e sistemas web para clientes.
-- 🗄️ No trabalho, escrevo SQL no SAP HANA (HANA Studio) e no SAP Business One.
-- 🤝 Já desenvolvi em equipe na faculdade e no hackathon interno da Ramo.
-- 🌐 Os estudos de caso completos estão no meu [portfólio](https://maicontheodoro-dev.vercel.app).
+- 💼 **Autônomo:** sites, landing pages e plataformas web sob medida, do levantamento de requisitos à publicação.
+- 🏢 **Estagiário de back-office na Ramo (BH):** SAP Business One, procedures em SQLScript (HANA), consultas em SQL e automação do sistema.
+- 🎓 **Análise e Desenvolvimento de Sistemas na PUC Minas**, com conclusão prevista para jul/2027. Destaque de projeto no 1º semestre (Estúdio de Ideias) e no 2º (Save Money, Destaque do Eixo 2).
+- 📚 **Alura:** carreira Desenvolvimento Back-End .NET, em andamento.
+- 🤝 Projetos em equipe na faculdade e no hackathon da Ramo, onde representei o grupo junto à organização.
+- 🌐 Os estudos de caso completos estão no [portfólio](https://maicontheodoro-dev.vercel.app).
 
 ## Tecnologias
 
 <!-- Ícones (skillicons.dev): cada nome em ?i= vira um ícone, na ordem escrita -->
 
-**Back-end e APIs**
-
-<!-- dotnet = .NET · cs = C# · py = Python · django = Django · flask = Flask · nodejs = Node.js -->
-<img src="https://skillicons.dev/icons?i=dotnet,cs,py,django,flask,nodejs" alt=".NET, C#, Python, Django, Flask e Node.js">
-
 **Front-end**
 
-<!-- react = React · nextjs = Next.js · ts = TypeScript · js = JavaScript · tailwind = Tailwind CSS · html = HTML · css = CSS · bootstrap = Bootstrap · sass = Sass -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,bootstrap,sass" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Bootstrap e Sass">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,bootstrap,sass" alt="Next.js, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap e Sass">
 
-**Banco de dados**
+**Back-end e APIs**
 
-<!-- postgres = PostgreSQL · supabase = Supabase · mongodb = MongoDB · firebase = Firebase -->
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,firebase" alt="PostgreSQL, Supabase, MongoDB e Firebase">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,flask,nodejs" alt="C#, .NET, Python, Django, Flask e Node.js">
 
-<sub>Também: SQL Server · SQLScript (SAP HANA)</sub>
+**Dados**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" alt="PostgreSQL, MongoDB, Firebase e Supabase">
+
+<sub>Também: SQL Server · SQL e SQLScript (SAP HANA) · **ERP:** SAP Business One</sub>
 
 **Ferramentas e infraestrutura**
 
-<!-- vscode = VS Code · visualstudio = Visual Studio · git = Git · github = GitHub · githubactions = GitHub Actions · docker = Docker · vercel = Vercel · azure = Azure -->
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,githubactions,docker,vercel,azure" alt="VS Code, Visual Studio, Git, GitHub, GitHub Actions, Docker, Vercel e Azure">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,azure,vscode,visualstudio,figma" alt="Git, GitHub, GitHub Actions, Docker, Vercel, Azure, VS Code, Visual Studio e Figma">
 
-<sub>Também: Render</sub>
-
-**Bibliotecas e testes**
-
-<sub>GSAP · Lenis · Motion · tsParticles · Zustand · Zod · JWT · OAuth · Swagger · BeautifulSoup · Playwright · Vitest · xUnit</sub>
+<sub>Também: Render · Playwright, Vitest e xUnit nos testes automatizados</sub>
 
 ## Projetos
 
-<!-- Cards: imagens em assets/projetos/; cada card leva ao site (ou ao código, quando é aberto) -->
-<p align="center">
-  <a href="https://ramoops.vercel.app"><img src="assets/projetos/ramo-ops.png" width="48%" alt="Ramo Ops: plataforma da Ramo com página pública, áreas por perfil e monitoramento das máquinas dos clientes. React, TypeScript, Django REST e PostgreSQL."></a>
-  <a href="https://giulia-faraj-adv.vercel.app"><img src="assets/projetos/giulia-faraj.png" width="48%" alt="Giulia Faraj Advocacia: site institucional para uma advogada civilista. React 19, Tailwind CSS 4, GSAP e Lenis."></a>
-</p>
-<p align="center">
-  <a href="https://github.com/MaiconVts/MyOrbita"><img src="assets/projetos/myorbita.png" width="48%" alt="MyOrbita: agregador de vagas da Gupy e do LinkedIn, atualizado todos os dias por scrapers automáticos. Python, GitHub Actions, Firebase e React."></a>
-  <a href="https://levemente-web.onrender.com/"><img src="assets/projetos/levemente.png" width="48%" alt="LeveMente: aplicação de bem-estar e saúde mental, com a API da comunidade e do chat. C#, ASP.NET Core, MongoDB Atlas e Next.js."></a>
-</p>
+<!-- Cada card é um print do projeto (assets/projetos/). Só tem link quando o site ou o código estão abertos. -->
 
-**Outros projetos**
+### No ar
 
-- 💰 [Save Money](https://github.com/MaiconVts/Save-Money): sistema de gestão financeira em C#, ASP.NET e SQL Server.
-- 📚 [Estúdio de Ideias](https://github.com/MaiconVts/estudio-de-ideias): repositório de projetos acadêmicos em HTML, CSS e JavaScript ([site](https://maiconvts.github.io/estudio-de-ideias/)).
-- 📄 [template-docs-pj](https://github.com/MaiconVts/template-docs-pj): modelo de documentação de projeto (PMBOK, ISO/IEC 25010 e LGPD).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ramoops.vercel.app"><img src="assets/projetos/ramo-ops.webp" alt="Ramo Ops: página pública, áreas por perfil e monitoramento das máquinas dos clientes"></a><br>
+      <b>Ramo Ops</b> · plataforma do 1º Hackathon da Ramo<br>
+      <sub>React · TypeScript · Django REST · PostgreSQL · <a href="https://ramoops.vercel.app">site</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://giulia-faraj-adv.vercel.app"><img src="assets/projetos/giulia-faraj.webp" alt="Giulia Faraj Advocacia: site institucional para uma advogada civilista"></a><br>
+      <b>Giulia Faraj Advocacia</b> · site institucional para cliente<br>
+      <sub>React 19 · Tailwind CSS 4 · GSAP · Lenis · <a href="https://giulia-faraj-adv.vercel.app">site</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MaiconVts/MyOrbita"><img src="assets/projetos/myorbita.webp" alt="MyOrbita: agregador de vagas da Gupy e do LinkedIn atualizado por scrapers automáticos"></a><br>
+      <b>MyOrbita</b> · agregador de vagas atualizado todo dia por scrapers<br>
+      <sub>Python · GitHub Actions · Firebase · React 19 · <a href="https://github.com/MaiconVts/MyOrbita">código</a> · <a href="https://my-orbita.vercel.app">site</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://levemente-web.onrender.com/"><img src="assets/projetos/levemente.webp" alt="LeveMente: aplicação de bem-estar e saúde mental"></a><br>
+      <b>LeveMente</b> · bem-estar e saúde mental, projeto em equipe da PUC Minas<br>
+      <sub>C# (.NET 10) · ASP.NET Core · MongoDB Atlas · Next.js · <a href="https://levemente-web.onrender.com/">site</a> · código privado</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://maiconvts.github.io/estudio-de-ideias/"><img src="assets/projetos/estudio-de-ideias.webp" alt="Estúdio de Ideias: projeto do 1º semestre, com animações em GSAP"></a><br>
+      <b>Estúdio de Ideias</b> · destaque de projeto do 1º semestre, já redesenhado<br>
+      <sub>HTML · CSS · JavaScript · GSAP · Lenis · <a href="https://maiconvts.github.io/estudio-de-ideias/">site</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/projetos/ofinance.webp" alt="OFinance: painel de controle financeiro familiar"><br>
+      <b>OFinance</b> · controle financeiro familiar, com vários perfis e painel consolidado<br>
+      <sub>Django · React · Tailwind · <b>em produção e fase de testes</b> · só print, projeto privado</sub>
+    </td>
+  </tr>
+</table>
+
+### Em refatoração
+
+Projetos que estou reescrevendo antes de publicar. O código é privado.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projetos/save-money.webp" alt="Save Money: tela de orçamentos do sistema de gestão financeira"><br>
+      <b>Save Money</b> · gestão financeira pessoal e empresarial, <b>Destaque do Eixo 2 no 2º semestre</b><br>
+      <sub>C# · ASP.NET · SQL Server · JavaScript · em equipe · refatoração em andamento</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Estudos que também estou refatorando</b>
+      <ul>
+        <li><b>PokeApi</b>: API REST em Flask, feita com base no livro de Cory Althoff e sem IA (Python · Flask)</li>
+        <li><b>Backoffice de loja</b>: demonstração de Bootstrap 5 com Sass</li>
+        <li><b>Rede social de nicho</b>: demonstração de Tailwind CSS</li>
+      </ul>
+      <sub>Os prints entram quando cada um estiver publicado.</sub>
+    </td>
+  </tr>
+</table>
+
+Mais projetos e estudos de caso no [portfólio](https://maicontheodoro-dev.vercel.app).
 
 ## Estatísticas
 
+<!-- Estes SVGs são gerados todos os dias pelo workflow .github/workflows/perfil.yml e ficam neste repositório, sem depender de API pública. -->
+
 <div align="center">
-  <a href="https://github.com/MaiconVts">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiconVts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconVts&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumo do perfil no GitHub" width="49%">
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" width="49%">
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" width="49%">
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" width="49%">
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários de commit" width="98%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiconVts/MaiconVts/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiconVts/MaiconVts/output/github-snake.svg">
+  <img alt="Gráfico de contribuições animado como o jogo da cobrinha" src="https://raw.githubusercontent.com/MaiconVts/MaiconVts/output/github-snake.svg" width="100%">
+</picture>
+
 </div>
 
 ---
