@@ -82,7 +82,6 @@
       <sub>HTML · CSS · JavaScript · GSAP · Lenis · <a href="https://maiconvts.github.io/estudio-de-ideias/">site</a></sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/projetos/ofinance.webp" alt="OFinance: painel de controle financeiro familiar"><br>
       <b>OFinance</b> · controle financeiro familiar, com vários perfis e painel consolidado<br>
       <sub>Django · React · Tailwind · <b>em produção e fase de testes</b> · só print, projeto privado</sub>
     </td>
@@ -120,17 +119,9 @@ Mais projetos e estudos de caso no [portfólio](https://maicontheodoro-dev.verce
 
 <div align="center">
 
-<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumo do perfil no GitHub" width="49%">
-<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" width="49%">
-<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" width="49%">
-<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" width="49%">
-<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários de commit" width="98%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiconVts/MaiconVts/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiconVts/MaiconVts/output/github-snake.svg">
-  <img alt="Gráfico de contribuições animado como o jogo da cobrinha" src="https://raw.githubusercontent.com/MaiconVts/MaiconVts/output/github-snake.svg" width="100%">
-</picture>
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" width="32%">
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" width="32%">
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumo do perfil e contribuições no último ano" width="32%">
 
 </div>
 
