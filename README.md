@@ -82,8 +82,9 @@
       <sub>HTML · CSS · JavaScript · GSAP · Lenis · <a href="https://maiconvts.github.io/estudio-de-ideias/">site</a></sub>
     </td>
     <td width="50%" valign="top">
+      <img src="assets/projetos/ofinance.webp" alt="OFinance: painel com saldo do mês, receitas e despesas, contas e cartões (dados de demonstração)"><br>
       <b>OFinance</b> · controle financeiro familiar, com vários perfis e painel consolidado<br>
-      <sub>Django · React · Tailwind · <b>em produção e fase de testes</b> · só print, projeto privado</sub>
+      <sub>Next.js · TypeScript · Supabase · Tailwind · <b>em produção e fase de testes</b> · dados de demonstração, código privado</sub>
     </td>
   </tr>
 </table>
