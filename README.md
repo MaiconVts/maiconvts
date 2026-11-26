@@ -89,25 +89,33 @@
   </tr>
 </table>
 
-### Em refatoração
+### Em refatoração e em desenvolvimento
 
-Projetos que estou reescrevendo antes de publicar. O código é privado.
+Projetos que estou reescrevendo ou construindo agora. O código é privado.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <img src="assets/projetos/save-money.webp" alt="Save Money: tela de orçamentos do sistema de gestão financeira"><br>
       <b>Save Money</b> · gestão financeira pessoal e empresarial, <b>Destaque do Eixo 2 no 2º semestre</b><br>
-      <sub>C# · ASP.NET · SQL Server · JavaScript · em equipe · refatoração em andamento</sub>
+      <sub>.NET 8 · ASP.NET Core MVC · EF Core · SQL Server · em equipe · <b>em refatoração</b></sub>
     </td>
     <td width="50%" valign="top">
-      <b>Estudos que também estou refatorando</b>
-      <ul>
-        <li><b>PokeApi</b>: API REST em Flask, feita com base no livro de Cory Althoff e sem IA (Python · Flask)</li>
-        <li><b>Backoffice de loja</b>: demonstração de Bootstrap 5 com Sass</li>
-        <li><b>Rede social de nicho</b>: demonstração de Tailwind CSS</li>
-      </ul>
-      <sub>Os prints entram quando cada um estiver publicado.</sub>
+      <a href="https://sidekick-theta-ten.vercel.app"><img src="assets/projetos/sidekick.webp" alt="Sidekick: landing page de um serviço de pessoa de confiança por hora"></a><br>
+      <b>Sidekick²</b> · landing de serviço sob demanda, para cliente<br>
+      <sub>Next.js 16 · React 19 · TypeScript · Tailwind 4 · GSAP · <b>em desenvolvimento</b> · <a href="https://sidekick-theta-ten.vercel.app">site de teste</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projetos/vhs-backroom.webp" alt="VHS Backroom: corredor com filtro de fita VHS, jogo de terror cooperativo"><br>
+      <b>VHS Backroom</b> · terror cooperativo para 4 jogadores, com visual de fita VHS<br>
+      <sub>Unity 6 · URP · C# · <b>em refatoração</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/projetos/rpg-incremental.webp" alt="RPG incremental: cenário noturno em pixel art com parallax"><br>
+      <b>RPG incremental</b> · RPG idle em pixel art<br>
+      <sub>Pixel art · arte do cenário · <b>em pré-produção</b></sub>
     </td>
   </tr>
 </table>
