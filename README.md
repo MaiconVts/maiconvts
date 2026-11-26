@@ -36,7 +36,15 @@
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" alt="PostgreSQL, MongoDB, Firebase e Supabase">
 
-<sub>Também: SQL Server · SQL e SQLScript (SAP HANA) · **ERP:** SAP Business One</sub>
+**Bancos corporativos e ERP**
+
+<!-- Ícones próprios em assets/icones/, no mesmo estilo do skillicons.dev -->
+<img src="assets/icones/sqlserver.svg" width="48" alt="SQL Server" title="SQL Server">
+<img src="assets/icones/sql.svg" width="48" alt="SQL" title="SQL">
+<img src="assets/icones/sap-hana.svg" width="48" alt="SAP HANA (SQLScript)" title="SAP HANA (SQLScript)">
+<img src="assets/icones/sap-business-one.svg" width="48" alt="SAP Business One" title="SAP Business One">
+
+<sub>SQL Server · SQL e SQLScript (SAP HANA) · ERP SAP Business One</sub>
 
 **Ferramentas e infraestrutura**
 
@@ -77,14 +85,38 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://sidekick-theta-ten.vercel.app"><img src="assets/projetos/sidekick.webp" alt="Sidekick: landing page de um serviço de pessoa de confiança por hora"></a><br>
+      <b>Sidekick²</b> · landing de serviço sob demanda, feita para uma startup<br>
+      <sub>Next.js 16 · React 19 · TypeScript · Tailwind 4 · GSAP · <b>concluído</b>, projeto não continuado · <a href="https://sidekick-theta-ten.vercel.app">site</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://williamdsilva.vercel.app"><img src="assets/projetos/search-plantao.webp" alt="Search Plantão: página única animada com uma lupa 3D"></a><br>
+      <b>Search Plantão</b> · case de produto de startup, página única animada com lupa 3D<br>
+      <sub>Next.js · React · TypeScript · Tailwind · GSAP · Three.js · <a href="https://williamdsilva.vercel.app">site</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://jamcomunicacao.vercel.app"><img src="assets/projetos/jam-comunicacao.webp" alt="Jam Comunicação: portfólio em vídeo com showreel"></a><br>
+      <b>Jam Comunicação</b> · portfólio em vídeo de comunicador institucional, em PT e EN, com showreel<br>
+      <sub>Next.js · React · TypeScript · next-intl · Cloudflare Workers · <a href="https://jamcomunicacao.vercel.app">site</a></sub>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://maiconvts.github.io/estudio-de-ideias/"><img src="assets/projetos/estudio-de-ideias.webp" alt="Estúdio de Ideias: projeto do 1º semestre, com animações em GSAP"></a><br>
       <b>Estúdio de Ideias</b> · destaque de projeto do 1º semestre, já redesenhado<br>
       <sub>HTML · CSS · JavaScript · GSAP · Lenis · <a href="https://maiconvts.github.io/estudio-de-ideias/">site</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/projetos/ofinance.webp" alt="OFinance: painel com saldo do mês, receitas e despesas, contas e cartões (dados de demonstração)"><br>
       <b>OFinance</b> · controle financeiro familiar, com vários perfis e painel consolidado<br>
       <sub>Next.js · TypeScript · Supabase · Tailwind · <b>em produção e fase de testes</b> · dados de demonstração, código privado</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://vhs-horror.vercel.app"><img src="assets/projetos/vhs-horror-archive.webp" alt="VHS Horror Archive: locadora 3D de terror em estética PS1"></a><br>
+      <b>VHS Horror Archive</b> · locadora 3D de terror em estética PS1, onde a comunidade escreve e lê fitas<br>
+      <sub>Next.js · Three.js · Tailwind · Firebase · <b>no ar, em evolução</b> · <a href="https://vhs-horror.vercel.app">site</a></sub>
     </td>
   </tr>
 </table>
@@ -101,24 +133,45 @@ Projetos que estou reescrevendo ou construindo agora. O código é privado.
       <sub>.NET 8 · ASP.NET Core MVC · EF Core · SQL Server · em equipe · <b>em refatoração</b></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://sidekick-theta-ten.vercel.app"><img src="assets/projetos/sidekick.webp" alt="Sidekick: landing page de um serviço de pessoa de confiança por hora"></a><br>
-      <b>Sidekick²</b> · landing de serviço sob demanda, para cliente<br>
-      <sub>Next.js 16 · React 19 · TypeScript · Tailwind 4 · GSAP · <b>em desenvolvimento</b> · <a href="https://sidekick-theta-ten.vercel.app">site de teste</a></sub>
+      <img src="assets/projetos/cliniq.webp" alt="Cliniq: tela de login do sistema de gestão para clínicas"><br>
+      <b>Cliniq</b> · gestão para clínicas, com a odontológica como caso-base<br>
+      <sub>HTML · Tailwind 4 · JavaScript · Figma · back-end em Python (FastAPI) planejado · <b>em desenvolvimento</b></sub>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projetos/numismatica.webp" alt="E-commerce de numismática: página inicial com moedas antigas (marca e catálogo de demonstração)"><br>
+      <b>E-commerce de numismática</b> · loja de moedas antigas para colecionadores<br>
+      <sub>Next.js 16 · React 19 · TypeScript · Tailwind 4 · Firestore · Cloudinary · GSAP · marca de demonstração · <b>em desenvolvimento</b></sub>
+    </td>
     <td width="50%" valign="top">
       <img src="assets/projetos/vhs-backroom.webp" alt="VHS Backroom: corredor com filtro de fita VHS, jogo de terror cooperativo"><br>
       <b>VHS Backroom</b> · terror cooperativo para 4 jogadores, com visual de fita VHS<br>
       <sub>Unity 6 · URP · C# · <b>em refatoração</b></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/projetos/rpg-incremental.webp" alt="RPG incremental: cenário noturno em pixel art com parallax"><br>
       <b>RPG incremental</b> · RPG idle em pixel art<br>
       <sub>Pixel art · arte do cenário · <b>em pré-produção</b></sub>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
+
+### Projetos futuros
+
+Já começados, ainda sem tela para mostrar. Vão ganhar card quando tiverem.
+
+- **Vitrine de Imóveis** · portal imobiliário sob medida, com painel admin de imóveis e corretores · <sub>C# · ASP.NET Core 9 MVC · EF Core 9 · PostgreSQL · Identity · Bootstrap</sub>
+- **Cifrário** · repertório e setlists para músicos, com cifras em ChordPro, na web e no celular
+- **Estúdio de Ballet** · site para uma escola de ballet
+- **Aperture** · rede social de nicho para fotógrafos, protótipo pronto · <sub>React · Tailwind</sub>
+- **Backoffice de loja** · painel administrativo de produtos, pedidos e clientes · <sub>HTML · Bootstrap · JavaScript</sub>
+- **PokéAPI Explorer** · app de Pokémon com back-end em Flask, do livro *O Programador Autodidata*, escrito sem IA · <sub>Python · Flask · React</sub>
+- **Pragma (FocusGuard)** · suíte de foco com Kanban, Pomodoro, agenda e notas · <sub>C# · .NET</sub>
+- **Project Geometry Idle** · jogo idle de geometria, meu primeiro jogo na Unity · <sub>Unity · C#</sub>
 
 Mais projetos e estudos de caso no [portfólio](https://maicontheodoro-dev.vercel.app).
 
