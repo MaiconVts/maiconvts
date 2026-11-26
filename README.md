@@ -109,14 +109,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/projetos/ofinance.webp" alt="OFinance: painel com saldo do mês, receitas e despesas, contas e cartões (dados de demonstração)"><br>
-      <b>OFinance</b> · controle financeiro familiar, com vários perfis e painel consolidado<br>
-      <sub>Next.js · TypeScript · Supabase · Tailwind · <b>em produção e fase de testes</b> · dados de demonstração, código privado</sub>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://vhs-horror.vercel.app"><img src="assets/projetos/vhs-horror-archive.webp" alt="VHS Horror Archive: locadora 3D de terror em estética PS1"></a><br>
       <b>VHS Horror Archive</b> · locadora 3D de terror em estética PS1, onde a comunidade escreve e lê fitas<br>
       <sub>Next.js · Three.js · Tailwind · Firebase · <b>no ar, em evolução</b> · <a href="https://vhs-horror.vercel.app">site</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/projetos/ofinance.webp" alt="OFinance: painel com saldo do mês, receitas e despesas, contas e cartões (dados de demonstração)"><br>
+      <b>OFinance</b> · controle financeiro familiar, com vários perfis e painel consolidado<br>
+      <sub>Next.js · TypeScript · Supabase · Tailwind · <b>em produção e fase de testes</b> · dados de demonstração, código privado</sub>
     </td>
   </tr>
 </table>
