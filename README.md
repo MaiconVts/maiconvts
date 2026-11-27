@@ -18,7 +18,7 @@
 
 <img src="assets/icones/sobre/cursos.svg" width="16" height="16" alt=""> **Alura:** carreira Desenvolvimento Back-End .NET, em andamento.
 
-<img src="assets/icones/sobre/equipe.svg" width="16" height="16" alt=""> Projetos em equipe na faculdade e no hackathon da Ramo, onde representei o grupo junto à organização.
+<img src="assets/icones/sobre/equipe.svg" width="16" height="16" alt=""> Projetos em equipe na faculdade e no hackathon da Ramo (1º lugar), onde representei o grupo junto à organização.
 
 <img src="assets/icones/sobre/portfolio.svg" width="16" height="16" alt=""> Os estudos de caso completos estão no [portfólio](https://maicontheodoro-dev.vercel.app).
 
@@ -61,7 +61,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://ramoops.vercel.app"><img src="assets/projetos/ramo-ops.webp" alt="Ramo Ops: página pública, áreas por perfil e monitoramento das máquinas dos clientes"></a><br>
-      <b>Ramo Ops</b> · plataforma do 1º Hackathon da Ramo<br>
+      <b>Ramo Ops</b> · 1º lugar no 1º Hackathon interno da Ramo<br>
       <sub>React · TypeScript · Django REST · PostgreSQL · <a href="https://ramoops.vercel.app">site</a></sub>
     </td>
     <td width="50%" valign="top">
