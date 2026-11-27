@@ -89,34 +89,30 @@
       <sub>Next.js 16 · React 19 · TypeScript · Tailwind 4 · GSAP · <b>concluído</b>, projeto não continuado · <a href="https://sidekick-theta-ten.vercel.app">site</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://williamdsilva.vercel.app"><img src="assets/projetos/search-plantao.webp" alt="Search Plantão: página única animada com uma lupa 3D"></a><br>
-      <b>Search Plantão</b> · case de produto de startup, página única animada com lupa 3D<br>
-      <sub>Next.js · React · TypeScript · Tailwind · GSAP · Three.js · <a href="https://williamdsilva.vercel.app">site</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://jamcomunicacao.vercel.app"><img src="assets/projetos/jam-comunicacao.webp" alt="Jam Comunicação: portfólio em vídeo com showreel"></a><br>
       <b>Jam Comunicação</b> · portfólio em vídeo de comunicador institucional, em PT e EN, com showreel<br>
       <sub>Next.js · React · TypeScript · next-intl · Cloudflare Workers · <a href="https://jamcomunicacao.vercel.app">site</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://maiconvts.github.io/estudio-de-ideias/"><img src="assets/projetos/estudio-de-ideias.webp" alt="Estúdio de Ideias: projeto do 1º semestre, com animações em GSAP"></a><br>
       <b>Estúdio de Ideias</b> · destaque de projeto do 1º semestre, já redesenhado<br>
       <sub>HTML · CSS · JavaScript · GSAP · Lenis · <a href="https://maiconvts.github.io/estudio-de-ideias/">site</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://vhs-horror.vercel.app"><img src="assets/projetos/vhs-horror-archive.webp" alt="VHS Horror Archive: locadora 3D de terror em estética PS1"></a><br>
       <b>VHS Horror Archive</b> · locadora 3D de terror em estética PS1, onde a comunidade escreve e lê fitas<br>
       <sub>Next.js · Three.js · Tailwind · Firebase · <b>no ar, em evolução</b> · <a href="https://vhs-horror.vercel.app">site</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/projetos/ofinance.webp" alt="OFinance: painel com saldo do mês, receitas e despesas, contas e cartões (dados de demonstração)"><br>
       <b>OFinance</b> · controle financeiro familiar, com vários perfis e painel consolidado<br>
       <sub>Next.js · TypeScript · Supabase · Tailwind · <b>em produção e fase de testes</b> · dados de demonstração, código privado</sub>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
